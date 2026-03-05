@@ -1,0 +1,25 @@
+#main-title {
+    color: gray;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#nav-bar {
+    background-color: rgb(228, 225, 226);
+    padding: 15px;
+    border-bottom: 2px solid #ddd;
+}
+
+
+.list-item {
+    font-style: italic;
+    margin-bottom: 8px;
+}
+
+
+.story-bg {
+    background-image: url('https://i.guim.co.uk/img/media/6ecfbb6f78c4a12c9439b67b05235e0e314f261b/963_9_2310_1386/master/2310.jpg?width=700&quality=85&auto=format&fit=max&s=ff1d4e31dc2cb833c06e785975b73362');
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
